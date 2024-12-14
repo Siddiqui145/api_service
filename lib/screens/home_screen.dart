@@ -21,9 +21,6 @@ class _HomeScreenState extends State<HomeScreen> {
            FloatingActionButton(onPressed: fetchUsers,
            backgroundColor: Colors.white38,
             child: const Icon(Icons.download, color: Colors.black54,),),
-           
-
-
            ],
         title: const Text("Flutter REST API"),
         centerTitle: true,
@@ -40,9 +37,8 @@ class _HomeScreenState extends State<HomeScreen> {
           return ListTile(
             title: Text(author),
             subtitle: Text(title), 
-//trailing: Text(poem),
-trailing: Text("$count lines"),
-          onTap: () {
+            trailing: Text("$count lines"),
+            onTap: () {
             showDialog(context: context, builder: (context) => AlertDialog(
               title: Text(title),
               content: SingleChildScrollView(child: Text(poem)),
@@ -51,13 +47,7 @@ trailing: Text("$count lines"),
 
           );
       }),
-
-
-      
     );
-    
-
-    
   }
   void fetchUsers() async {
   print("Fetch users called");
@@ -72,7 +62,6 @@ trailing: Text("$count lines"),
   });
   
 }
-
 }
 
 
