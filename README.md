@@ -1,16 +1,12 @@
 # api_service
 
-A new Flutter project.
+A new Flutter project to test and work of a REST API of poetry as a trial project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application using API for Poetry.
 
-A few resources to get you started if this is your first Flutter project:
+# DEMO :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uploading WhatsApp Video 2024-12-15 at 11.58.32_ae24ee9c.mp4…
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
