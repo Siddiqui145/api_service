@@ -8,5 +8,8 @@ This project is a starting point for a Flutter application using API for Poetry.
 
 # DEMO :
 
-Uploading WhatsApp Video 2024-12-15 at 11.58.32_ae24ee9c.mp4…
+
+
+https://github.com/user-attachments/assets/cb9bfcfd-567c-4876-acb6-08ed4570d1fb
+
 
